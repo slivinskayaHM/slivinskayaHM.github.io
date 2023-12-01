@@ -14,6 +14,7 @@ A [Bootstrap 4](https://getbootstrap.com/) template project for [Github Pages](h
 ## Setup Guide
 
 ### Create a repository from this template
+<img src="/assets/img.png" alt="isolated" width="200"/>
 
 * [Go to this repository page on Github](https://github.com/nicolas-van/bootstrap-4-github-pages).
 * Click the `Star` button on the top right. (OK, this step is facultative, but that would make you a nice person)
