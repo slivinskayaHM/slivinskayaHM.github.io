@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Frederik
+autor: Angelina Slivinskaya
 ---
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/nicolas-van/bootstrap-4-github-pages?style=social)](https://github.com/nicolas-van/bootstrap-4-github-pages)
