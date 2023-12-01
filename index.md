@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bootstrap 4 Github Pages
+title: Frederik
 ---
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/nicolas-van/bootstrap-4-github-pages?style=social)](https://github.com/nicolas-van/bootstrap-4-github-pages)
@@ -11,7 +11,6 @@ A [Bootstrap 4](https://getbootstrap.com/) template project for [Github Pages](h
 * Recompiles Bootstrap from SCSS files, which allows to customize Bootstrap's variables and use Bootstrap themes.
 * Full support of Bootstrap's JavaScript plugins.
 * Supports all features of Github Pages and Jekyll.
-
 ## Setup Guide
 
 ### Create a repository from this template
