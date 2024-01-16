@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Frederik
+title: Willkommen bei Frederik
 autor: Angelina Slivinskaya
 ---
 
 
-### Willkommen zu Frederik
+### Wie können wir Ihnen helfen ?
 
 Willkommen bei der Anwendung „Frederik“ – Ihrer Lösung für die effiziente Nutzung von Solarstrom für Ihre elektronischen Geräte! Unser Ziel ist es, den von Ihrer PV-Anlage erzeugten Strom so effektiv wie möglich auf Ihre alltäglichen Elektronikgeräte wie Waschmaschine, Staubsauger und Fernseher zu verteilen.
 
@@ -16,3 +16,7 @@ Um dies zu ermöglichen, bitten wir Sie, Ihre gewöhnliche Nutzung stromverbrauc
 In einer Zeit, in der ein erheblicher Anteil des öffentlichen Stroms noch aus weniger nachhaltigen Quellen stammt, wie fossilen Brennstoffen, setzt „Frederik“ auf eine nachhaltige und kostengünstige Nutzung Ihres eigenen, umweltfreundlichen Solarstroms. Durch die Anwendung tragen Sie aktiv dazu bei, die Abhängigkeit von nicht-nachhaltigen Energiequellen zu verringern und eine grünere Zukunft zu gestalten.
 
 Lassen Sie uns gemeinsam den Weg zu einer umweltfreundlicheren und kosteneffizienteren Energiezukunft einschlagen. Nutzen Sie jetzt die Vorteile von „Frederik“ und maximieren Sie die Nutzung Ihres Solarstroms – für eine nachhaltige, grüne und effiziente Energieversorgung!
+
+### Kontaktieren Sie uns
+Schreiben Sie uns gerne eine Email unter 'contakt.frederik@gmail.com'.
+Ansonsten laden Sie sich unsere App 'Frederik' im Playstore herunter und kontaktieren Sie uns direkt über die App.
