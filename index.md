@@ -31,9 +31,9 @@ Wir freuen uns, dass Sie unsere App "Frederik" nutzen. Ihre Privatsphäre ist un
 
 1. Verantwortliche Stelle
 
-Frederik
-Karlstrasse 6 
-80333 München
+Frederik, 
+Karlstrasse 6,  
+80333 München, 
 contakt.frederik@gmail.com
 
 2. Arten der verarbeiteten Daten
