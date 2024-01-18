@@ -17,6 +17,47 @@ In einer Zeit, in der ein erheblicher Anteil des öffentlichen Stroms noch aus w
 
 Lassen Sie uns gemeinsam den Weg zu einer umweltfreundlicheren und kosteneffizienteren Energiezukunft einschlagen. Nutzen Sie jetzt die Vorteile von „Frederik“ und maximieren Sie die Nutzung des grünen Stroms – für eine nachhaltige, grüne und effiziente Energieversorgung!
 
+
+
+
+Datenschutz
+
+Wir freuen uns, dass Sie unsere App "Frederik" nutzen. Ihre Privatsphäre ist uns wichtig, und wir sind bestrebt, Ihre persönlichen Daten verantwortungsbewusst zu schützen. Diese Datenschutzerklärung informiert Sie über die Art, den Umfang und den Zweck der Erhebung und Verwendung Ihrer personenbezogenen Daten durch die App Frederik. Durch die Nutzung unserer App stimmen Sie den nachfolgend beschriebenen Datenschutzregelungen zu.
+
+1. Verantwortliche Stelle
+
+Frederik
+Karlstrasse 6 
+80333 München
+contakt.frederik@gmail.com
+
+2. Arten der verarbeiteten Daten
+
+Für die Bereitstellung unserer App müssen wir E-Mail, Standort und die Benutzung Ihrer Haushaltsgeräte verwalten.
+
+3. Zwecke der Datenverarbeitung
+
+Wir verarbeiten Ihre personenbezogenen Daten für folgende Zwecke:
+
+1.Bereitstellung und Verbesserung unserer App
+2.Kommunikation mit Ihnen
+3.Erfüllung rechtlicher Verpflichtungen
+4.Schutz vor Missbrauch und Sicherheit
+
+4. Datenweitergabe an Dritte
+
+Wir geben Ihre Daten nur dann an Dritte weiter, wenn dies gesetzlich vorgeschrieben ist oder Sie zuvor eingewilligt haben. Externe Dienstleister, die in unserem Auftrag Daten verarbeiten, werden sorgfältig ausgewählt und vertraglich verpflichtet.
+
+5. Datensicherheit
+
+Wir setzen technische und organisatorische Sicherheitsmaßnahmen ein, um Ihre Daten vor unbefugtem Zugriff und Missbrauch zu schützen.
+
+6. Ihre Rechte
+
+Sie haben das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung der Verarbeitung Ihrer personenbezogenen Daten. Kontaktieren Sie uns bitte, um von diesen Rechten Gebrauch zu machen.
+
+
+
 ### Kontaktieren Sie uns
 Schreiben Sie uns gerne eine Email unter "contakt.frederik@gmail.com".
 Ansonsten laden Sie sich unsere App "Frederik" im Playstore herunter und kontaktieren Sie uns direkt über die App.
