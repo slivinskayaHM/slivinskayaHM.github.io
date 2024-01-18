@@ -19,8 +19,13 @@ Lassen Sie uns gemeinsam den Weg zu einer umweltfreundlicheren und kosteneffizie
 
 
 
+### Kontaktieren Sie uns
+Schreiben Sie uns gerne eine Email unter "contakt.frederik@gmail.com".
+Ansonsten laden Sie sich unsere App "Frederik" im Playstore herunter und kontaktieren Sie uns direkt über die App.
 
-Datenschutz
+
+
+### Datenschutz
 
 Wir freuen uns, dass Sie unsere App "Frederik" nutzen. Ihre Privatsphäre ist uns wichtig, und wir sind bestrebt, Ihre persönlichen Daten verantwortungsbewusst zu schützen. Diese Datenschutzerklärung informiert Sie über die Art, den Umfang und den Zweck der Erhebung und Verwendung Ihrer personenbezogenen Daten durch die App Frederik. Durch die Nutzung unserer App stimmen Sie den nachfolgend beschriebenen Datenschutzregelungen zu.
 
@@ -55,9 +60,3 @@ Wir setzen technische und organisatorische Sicherheitsmaßnahmen ein, um Ihre Da
 6. Ihre Rechte
 
 Sie haben das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung der Verarbeitung Ihrer personenbezogenen Daten. Kontaktieren Sie uns bitte, um von diesen Rechten Gebrauch zu machen.
-
-
-
-### Kontaktieren Sie uns
-Schreiben Sie uns gerne eine Email unter "contakt.frederik@gmail.com".
-Ansonsten laden Sie sich unsere App "Frederik" im Playstore herunter und kontaktieren Sie uns direkt über die App.
