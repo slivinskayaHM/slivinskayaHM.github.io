@@ -31,12 +31,9 @@ Wir freuen uns, dass Sie unsere App "Frederik" nutzen. Ihre Privatsphäre ist un
 
 1. Verantwortliche Stelle
 
-Frederik
-
+Frederik,
 Karlstrasse 6,  
 80333 München, 
-
-contakt.frederik@gmail.com
 
 2. Arten der verarbeiteten Daten
 
@@ -44,19 +41,13 @@ Für die Bereitstellung unserer App müssen wir E-Mail, Standort und die Benutzu
 
 3. Zwecke der Datenverarbeitung
 
-Wir verarbeiten Ihre personenbezogenen Daten für folgende Zwecke:
-
-1.Bereitstellung und Verbesserung unserer App
-
-2.Kommunikation mit Ihnen
-
-3.Erfüllung rechtlicher Verpflichtungen
-
-4.Schutz vor Missbrauch und Sicherheit
+Wir verarbeiten Ihre personenbezogenen Daten, um Ihnen eine optimale Nutzung unserer App zu ermöglichen. Zudem nutzen wir Ihre Daten, um mit Ihnen zu kommunizieren und rechtliche Verpflichtungen zu erfüllen. Ein weiterer wichtiger Aspekt unserer Datenverarbeitung ist der Schutz vor Missbrauch und die Sicherheit Ihrer Informationen.
 
 4. Datenweitergabe an Dritte
 
 Wir geben Ihre Daten nur dann an Dritte weiter, wenn dies gesetzlich vorgeschrieben ist oder Sie zuvor eingewilligt haben. Externe Dienstleister, die in unserem Auftrag Daten verarbeiten, werden sorgfältig ausgewählt und vertraglich verpflichtet.
+
+Für die aktuelle Funktionweise der App ist es nötig mit den Anbietern Mapbox, Open-Meteo und der Bundesnetzagentur-SMARD zu arbeiten.
 
 5. Datensicherheit
 
